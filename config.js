@@ -1,3 +1,3 @@
 module.exports = {
-    BASEURL: "http://localhost:5000/"
+    BASEURL: "https://url-shortner-backend-git-main-yashmatade.vercel.app/"
 }
