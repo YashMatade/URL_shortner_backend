@@ -1,3 +1,3 @@
 module.exports = {
-    BASEURL: "https://url-shortner-backend-git-main-yashmatade.vercel.app/"
+    BASEURL: "https://usl-plum.vercel.app/"
 }
